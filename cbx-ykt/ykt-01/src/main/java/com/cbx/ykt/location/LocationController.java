@@ -10,4 +10,5 @@ public class LocationController {
     public void test(){
         System.out.println("hello");
     }
+
 }
