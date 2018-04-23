@@ -1,0 +1,42 @@
+!SESSION 2018-04-12 13:18:24.194 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.core 1 0 2018-04-12 13:21:20.873
+!MESSAGE Error: invalid activation-data in license file; activation is invalidated
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.273
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.383
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.453
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.533
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.623
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.693
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.803
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.883
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:28.973
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:29.053
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2018-04-12 13:21:29.133
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\134\1\.cp\snippets\jsp\struts_tiles_snippets.xml
