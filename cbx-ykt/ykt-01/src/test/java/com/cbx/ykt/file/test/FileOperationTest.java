@@ -1,7 +1,7 @@
 package com.cbx.ykt.file.test;
 
-import com.cbx.ykt.FileOperation.FileOperation;
-import com.cbx.ykt.FileOperation.MessageHeader;
+import com.cbx.ykt.fileoperation.FileOperation;
+import com.cbx.ykt.fileoperation.MessageHeader;
 
 import java.io.IOException;
 
@@ -16,6 +16,5 @@ public class FileOperationTest {
         System.out.println("个数====="+messageHeader.getCount());
         System.out.println("帧头====="+messageHeader.getTag());
         System.out.println("长度====="+messageHeader.getLength());
-
     }
 }
